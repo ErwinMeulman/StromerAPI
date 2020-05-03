@@ -1,9 +1,10 @@
 # StromerAPI
 
-StromerV120530.exe
-XC800_fload.exe
+StromerV120530.exe/
+XC800_fload.exe/
+Stromer_866_V075.hex
 
-XC886/888CLM
+XC886/888CLM/
 8-Bit Single Chip Microcontroller
 
 ![Screenshot](https://raw.githubusercontent.com/ErwinMeulman/StromerAPI/master/CazpYLG.png)
